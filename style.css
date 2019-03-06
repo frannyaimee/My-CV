@@ -231,8 +231,7 @@
 		font-family: 'Source Sans Pro', sans-serif;
 		align-self: center;
 		
-		/*width: 100wh;*/
-		height: 90vh;
+		
 		background: linear-gradient(-45deg, #cbb4d4, #20002c);
 		background-size: 400% 400%;
 		-webkit-animation: Gradient 15s ease infinite;
