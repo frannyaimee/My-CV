@@ -6,9 +6,6 @@
 		margin: 0px 0px 0px 0px;
 		font-family: 'Source Sans Pro', sans-serif;
 		align-self: center;
-		
-		/*width: 100wh;*/
-		height: 90vh;
 		background: linear-gradient(-45deg, #cbb4d4, #20002c);
 		background-size: 400% 400%;
 		-webkit-animation: Gradient 15s ease infinite;
@@ -118,7 +115,7 @@
 	}
 
 	.profpic {
-		width: 90%;
+		width: 80%;
 		clip-path: circle(50% at center);
 		align-self: center;
 		border-style: solid;
@@ -177,7 +174,7 @@
 		width: 80%;
 		height: 4%;
 		margin-top: 2%;
-		margin-bottom: 4%;
+		margin-bottom: 2%;
 		align-self: center;
 		display: grid;
 		grid-template: 100% / 1fr 1fr 1fr 1fr 1fr;
@@ -442,7 +439,7 @@
 		margin-bottom: 3%;
 		font-size: 30px;
 	}
-	
+
 	a{
 		color: #20002c;
 	}
